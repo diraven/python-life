@@ -23,6 +23,8 @@ pep8-naming = "*"
 mypy = "*"
 
 [packages]
+pillow = "*"
+pygame = "*"
 
 [requires]
 python_version = "3.7"
